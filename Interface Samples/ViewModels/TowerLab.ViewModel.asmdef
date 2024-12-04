@@ -1,0 +1,21 @@
+{
+  "name": "TowerLab.ViewModel",
+  "rootNamespace": "",
+  "references": [
+    "GUID:f51ebe6a0ceec4240a699833d6309b23",
+    "GUID:1ee5f41d312f5bc42a734b476ac451a8",
+    "GUID:77221876cc6b8244180b96e320b1bcd4",
+    "GUID:86e2c9221eb866d429a4010e8d157848",
+    "GUID:669a37d93c16c594aa1cc15019e3a986",
+    "GUID:85ed7dc5842e7bc4ab33c3667955735b"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

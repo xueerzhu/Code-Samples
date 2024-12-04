@@ -1,0 +1,30 @@
+{
+  "name": "TowerLab.View",
+  "rootNamespace": "",
+  "references": [
+    "GUID:6055be8ebefd69e48b49212b09b47b2f",
+    "GUID:77221876cc6b8244180b96e320b1bcd4",
+    "GUID:f51ebe6a0ceec4240a699833d6309b23",
+    "GUID:af548224dcfe41e4e9b61c2222213436",
+    "GUID:13a6fdc14ca9df84eb8019bc66fa9e5d",
+    "GUID:669a37d93c16c594aa1cc15019e3a986",
+    "GUID:21462402cefc5dd4ba284fb769521eff",
+    "GUID:fb24642277b1db2449da7ac148ce939d",
+    "GUID:ee0e8bbf83184db4db476cd18a01a27a",
+    "GUID:86e2c9221eb866d429a4010e8d157848",
+    "GUID:85ed7dc5842e7bc4ab33c3667955735b",
+    "GUID:1ee5f41d312f5bc42a734b476ac451a8",
+    "GUID:683d4e16f63f43f4b811336677afc79d",
+    "GUID:80ecb87cae9c44d19824e70ea7229748",
+    "GUID:082448d5224eda440a7227776552bf92"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
